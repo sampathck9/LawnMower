@@ -1,0 +1,15 @@
+{
+  "name": "lawnmower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LawnMower.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sampath Kumar CHALLA",
+  "license": "ISC"
+}
